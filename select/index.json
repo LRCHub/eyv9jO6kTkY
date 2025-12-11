@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Surges",
+  "base_artist": "Orangestar (feat. 夏背 & ルワン)",
+  "createdAt": "2025-12-11T12:39:28.478957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_Surges_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/02_Surges_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/03_Surges_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "Orangestar (feat. 夏背 & ルワン)",
+      "has_synced": true,
+      "path": "select/04_Surges_Orangestar_(feat._夏背_&_ルワン).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/05_Surges_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/06_Surges_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/07_Surges_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "Orangestar/夏背/ルワン",
+      "has_synced": true,
+      "path": "select/08_Surges_Orangestar_夏背_ルワン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Orangestar - Surges (feat. 夏背 & ルワン) / カロリーメイト web movie",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/09_Orangestar_-_Surges_(feat._夏背_&_ルワン)___カロリーメイト_web_movie_Orangestar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/10_Surges_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Surges",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/11_Surges_Wagakki_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Surges",
+      "artist": "Orangestar (feat.夏背&ルワン) ずま",
+      "has_synced": false,
+      "path": "select/pl_01_Surges_Orangestar_(feat.夏背&ルワン)_ずま.txt"
+    }
+  ]
+}
